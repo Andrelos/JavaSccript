@@ -1,0 +1,10 @@
+Modelo orientado a eventos
+
+--
+*seleccionar un objeto del DOM
+*vincularse a los eventos con 1funcion
+*funciones entre si(callbacks)
+--
+
+
+developer.mozilla.org (documentacion y tutoriales)
