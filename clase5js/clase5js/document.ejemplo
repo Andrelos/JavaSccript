@@ -1,0 +1,23 @@
+document.querySelector('button');
+$('button');
+
+document.querySelector('button').innerText = "algo";
+$('button').text('algo')
+
+$('input').focus(function(){console.log('focus')});
+
+desde jquery obtengo un objeto, no un nodo.
+
+$('#contenedor').html(); trae todo el contenido
+
+$('#contenedor').html("Andrelo"); sobreescribe el elemento
+
+$('#contenedor').empty(); vacio el elemento
+
+$('#contenedor').css('color','green'); setea color verde al texto
+
+$('#contenedor').css('color'); trae el color
+
+$('#contenedor').attr('id'); trae el id
+
+$('#contenedor').addClass('ok');
